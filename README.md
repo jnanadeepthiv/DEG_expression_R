@@ -2,8 +2,8 @@
 
 ## Author Information
 **Programmer:** Jnana Deepthi Vishnumolakala  
-**Language:** R (4.4.1 (2024-06-14)) 
-**Date Submitted:** October 12, 2025  
+**Language:** R (4.4.1) 
+**Date Submitted:** November 23rd , 2025  
 **Purpose:**  
 This script performs a comprehensive analysis of gene expression data, including exploratory data analysis (EDA) and visualization. The primary objectives are to identify differentially expressed genes (DEGs) between Tumor and Normal samples, analyze their distribution across chromosomes, and generate heatmaps and clustermaps to explore co-expression patterns.
 
